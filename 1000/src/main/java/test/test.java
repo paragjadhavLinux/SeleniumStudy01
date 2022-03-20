@@ -13,6 +13,7 @@ public class test {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.gmail.com/");
 		System.out.println("test successful");
+		System.out.println("First New Line Added...");
 	}
 
 }
